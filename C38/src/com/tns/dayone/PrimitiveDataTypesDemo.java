@@ -24,8 +24,8 @@ public class PrimitiveDataTypesDemo {
 		minLong+"Maxlong range of byte is "+maxLong);
 		float f=3234.141243278345f;
 		double d=3456.14124512345678902345678914f;
-		System.out.println("float value is "+f+" double value is 
-		"+d);
+		System.out.println("float value is "+f+"double value is" 
+		+d);
 		//boolean 
 		boolean flag=false;
 		System.out.println("boolean value is "+flag);
